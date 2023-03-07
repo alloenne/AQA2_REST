@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2b2mx145lb0g828i?svg=true)](https://ci.appveyor.com/project/alloenne/aqa2-rest)
